@@ -1,0 +1,88 @@
+const games = [
+  {
+    id: 1,
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a1/Final_Fantasy_XIV%2C_A_Realm_Reborn_box_cover.jpg",
+    name: "Final Fantasy XIV - Online",
+    expansion: "A Realm Reborn",
+    price: 53,
+  },
+  {
+    id: 2,
+    img: "https://upload.wikimedia.org/wikipedia/en/c/ce/Final_Fantasy_XIV_Heavensward_box_cover.jpg",
+    name: "Final Fantasy XIV - Online",
+    expansion: "Heavensward",
+    price: 90,
+  },
+  {
+    id: 3,
+    img: "https://upload.wikimedia.org/wikipedia/en/0/0e/Final_Fantasy_XIV_Stormblood_box_cover.jpg",
+    name: "Final Fantasy XIV - Online",
+    expansion: "Stormblood",
+    price: 90,
+  },
+  {
+    id: 4,
+    img: "https://upload.wikimedia.org/wikipedia/en/9/9d/Final_Fantasy_XIV_Shadowbringers_box_cover.png",
+    name: "Final Fantasy XIV - Online",
+    expansion: "Shadowbringers",
+    price: 90,
+  },
+  {
+    id: 5,
+    img: "https://upload.wikimedia.org/wikipedia/en/4/47/Final_Fantasy_XIV_Endwalker_box_cover.png",
+    name: "Final Fantasy XIV - Online",
+    expansion: "Endwalker",
+    price: 90,
+  },
+  {
+    id: 6,
+    img: "https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png",
+    name: "World of Warcraft",
+    expansion: "Base",
+    price: 60,
+  },
+  {
+    id: 7,
+    img: "https://upload.wikimedia.org/wikipedia/en/a/af/World_of_Warcraft_Shadowlands.jpg",
+    name: "World of Warcraft",
+    expansion: "Shadowlands",
+    price: 100,
+  },
+  {
+    id: 8,
+    img: "https://upload.wikimedia.org/wikipedia/en/c/c5/World_of_Warcraft_Dragonflight.png",
+    name: "World of Warcraft",
+    expansion: "Dragonflight",
+    price: 170,
+  },
+  {
+    id: 9,
+    img: "https://upload.wikimedia.org/wikipedia/en/9/96/Gw2-boxfront.png",
+    name: "Guild Wars 2",
+    expansion: "Base",
+    price: 0,
+  },
+  {
+    id: 10,
+    img: "https://upload.wikimedia.org/wikipedia/en/e/e8/Guild_Wars_2_Heart_of_Thorns_cover.png",
+    name: "Guild Wars 2",
+    expansion: "Heart of Thorns",
+    price: 75,
+  },
+  {
+    id: 11,
+    img: "https://upload.wikimedia.org/wikipedia/en/e/e0/Guild_Wars_2_Path_of_Fire_cover.png",
+    name: "Guild Wars 2",
+    expansion: "Path of Fire",
+    price: 75,
+  },
+  {
+    id: 12,
+    img: "https://upload.wikimedia.org/wikipedia/en/a/ad/Guild_Wars_2_End_of_Dragons_cover.png?20220324000258",
+    name: "Guild Wars 2",
+    expansion: "End of Dragons",
+    price: 150,
+  },
+];
+
+export default games;
